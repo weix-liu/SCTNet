@@ -1,5 +1,5 @@
 # SCTNet
-This project provides the implementation of the Shallow CNN-Transformer Network (SCTNet), which achieve state-of-the-art performance in cloud detection tasks with 0.7M parameters and 1G MACs. Our code will be released soon.
+This project provides the implementation of the Shallow CNN-Transformer Network (SCTNet), which achieve state-of-the-art performance in cloud detection tasks with 0.7M parameters and 1G MACs. 
 
 ## Quantitative Comparison (mIoU, %, ↑) on six datasets
 | Method | HRC_WHU | GF1MS | GF2MS | CloudSEN12 L1C |CloudSEN12 L2A | L8 Biome|
