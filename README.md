@@ -14,5 +14,25 @@ This project provides the implementation of the Shallow CNN-Transformer Network 
 |UNetMobv2	|79.91	|91.71	|80.44	|71.65	|70.36	|47.76|
 |SCTNet(ours)|	89.22|	93.22|	86.99|	71.21|	70.80|	66.03|
 
+## Usage
+Follow the [README.md](https://github.com/XavierJiezou/cloudseg/blob/main/README.md) in [cloudseg](https://github.com/XavierJiezou/cloudseg)
+
+## Acknowledgement
+This repository borrows from [cloudseg](https://github.com/XavierJiezou/cloudseg).
+
+## Citation
+
+If you find this repository helpful, please consider citing:
+
+```bib
+@article{liu2025sctnet,
+  title={SCTNet: A Shallow CNN-Transformer Network with Statistics-Driven Modules for Cloud Detection},
+  author={Liu, Weixing and Luo, Bin and Liu, Jun and Nie, Han and Su, Xin},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2025},
+  publisher={IEEE}
+}
+```
+
 
 
